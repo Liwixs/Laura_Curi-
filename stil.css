@@ -1,0 +1,42 @@
+@charset "utf-8";
+/* CSS Document */
+p {
+	color: midnightblue; 
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+	width: 600px;
+	padding: 10px;
+	background-color: honeydew;
+}
+h1,h2{
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+	color: darkslateblue;
+	padding: 5px;
+	background-color: aliceblue;
+}
+body{
+	background-image: url("slike/pink-7761356_1280.png");
+}
+ol{
+	color: midnightblue; 
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+	width: 600px;
+	padding: 10px;
+	background-color: lightpink;
+}
+ul{
+	color: midnightblue; 
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+	width: 600px;
+	padding: 10px;
+	background-color: lightpink;
+}
+a:link {
+	color: #ED00FF;
+	padding: 1px;
+	background-color: azure;	
+}
+a:hover {
+	color: #6B2867;
+	padding: 1px;
+	background-color: #A7A7A7;
+}
